@@ -1,2 +1,3 @@
-# -MeetingCalender_Oops-Java-
-Google Meeting calender  in java object oriented progamming 
+# Meeting Calendar Project
+
+This project is a simple Java-based application designed to manage and schedule meetings efficiently. It allows users to create, update, and view meetings, enhancing productivity and organization.
